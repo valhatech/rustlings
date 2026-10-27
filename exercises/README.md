@@ -1,3 +1,8 @@
+
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+PS C:\Travail\rustlings\exercises\01_variables> rustc variables1_fr.rs 
+PS C:\Travail\rustlings\exercises\01_variables> .\variables1_fr.exe 
+
 # Exercise to Book Chapter mapping
 
 | Exercise               | Book Chapter        |

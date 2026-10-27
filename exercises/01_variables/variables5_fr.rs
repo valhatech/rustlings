@@ -3,6 +3,6 @@ fn main() {
     println!("Spell a number: {number}");
 
     // TODO : Corrigez l'erreur de compilation en modifiant la ligne ci-dessous sans renommer la variable.
-    number = 3;
+    let number = 3;
     println!("Number plus two is: {}", number + 2);
 }
